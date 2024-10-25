@@ -1,8 +1,6 @@
-# ControlWithPython
+# FullStack
 
-Get started by visiting the [wiki](https://github.com/ECE-196/ControlWithPython/wiki).
-
-**Remember to update the changelog**
+Get started by visiting the [assignment page](https://ece-196.github.io/assignments/full-stack).
 
 # Submission
 
